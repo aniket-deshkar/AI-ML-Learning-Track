@@ -1,0 +1,363 @@
+college:
+- collegeName: Visvesvaraya National Institute of Technology
+  branches:
+  - branchName: Computer Science
+    students:
+    - id: 1
+      name: Amit Sharma
+      gender: Male
+      email: amit.cse@vnit.ac.in
+      grade: Fail
+      age: 21
+    - id: 2
+      name: Neha Verma
+      gender: Female
+      email: neha.cse@vnit.ac.in
+      grade: Fail
+      age: 21
+  - branchName: Mechanical
+    students:
+    - id: 1
+      name: Akash Pawar
+      gender: Male
+      email: akash.mech@vnit.ac.in
+      marks: 99
+      grade: Grade A
+      age: 11
+    - id: 2
+      name: Pooja Joshi
+      gender: Female
+      email: pooja.mech@vnit.ac.in
+      grade: Fail
+      age: 23
+  - branchName: Electrical
+    students:
+    - id: 1
+      name: Manish Thakur
+      gender: Male
+      email: manish.ee@vnit.ac.in
+      grade: Fail
+      age: 23
+    - id: 2
+      name: Aarti Singh
+      gender: Female
+      email: aarti.ee@vnit.ac.in
+      grade: Fail
+      age: 23
+  - branchName: Civil
+    students:
+    - id: 1
+      name: Rahul Agrawal
+      gender: Male
+      email: rahul.civil@vnit.ac.in
+      grade: Fail
+      age: 45
+    - id: 2
+      name: Anjali Tiwari
+      gender: Female
+      email: anjali.civil@vnit.ac.in
+      grade: Fail
+      age: 12
+  - branchName: Electronics
+    students:
+    - id: 1
+      name: Sachin Kulkarni
+      gender: Male
+      email: sachin.ec@vnit.ac.in
+      grade: Fail
+      age: 21
+    - id: 2
+      name: Nisha Borkar
+      gender: Female
+      email: nisha.ec@vnit.ac.in
+      grade: Fail
+      age: 21
+- collegeName: Yeshwantrao Chavan College of Engineering
+  branches:
+  - branchName: Computer Science
+    students:
+    - id: 1
+      name: Aditya Deshpande
+      gender: Male
+      email: aditya.cse@ycce.edu
+      grade: Fail
+      age: 21
+    - id: 2
+      name: Shruti Kulkarni
+      gender: Female
+      email: shruti.cse@ycce.edu
+      grade: Fail
+      age: 21
+  - branchName: Mechanical
+    students:
+    - id: 1
+      name: Vishal Thote
+      gender: Male
+      email: vishal.mech@ycce.edu
+      grade: Fail
+      age: 21
+    - id: 2
+      name: Pallavi Shende
+      gender: Female
+      email: pallavi.mech@ycce.edu
+      grade: Fail
+      age: 21
+  - branchName: Electrical
+    students:
+    - id: 1
+      name: Nitin Wagh
+      gender: Male
+      email: nitin.ee@ycce.edu
+      grade: Fail
+      age: 21
+    - id: 2
+      name: Kavita Jain
+      gender: Female
+      email: kavita.ee@ycce.edu
+      grade: Fail
+      age: 21
+  - branchName: Civil
+    students:
+    - id: 1
+      name: Tejas Bhope
+      gender: Male
+      email: tejas.civil@ycce.edu
+      grade: Fail
+      age: 23
+    - id: 2
+      name: Prachi Dhore
+      gender: Female
+      email: prachi.civil@ycce.edu
+      grade: Fail
+      age: 23
+  - branchName: Electronics
+    students:
+    - id: 1
+      name: Sameer Naik
+      gender: Male
+      email: sameer.ec@ycce.edu
+      grade: Fail
+      age: 23
+    - id: 2
+      name: Megha Badole
+      gender: Female
+      email: megha.ec@ycce.edu
+      grade: Fail
+      age: 23
+- collegeName: G H Raisoni College of Engineering
+  branches:
+  - branchName: Computer Science
+    students:
+    - id: 1
+      name: Harshal Kapse
+      gender: Male
+      email: harshal.cse@raisoni.net
+      grade: Grade C
+      age: 23
+    - id: 2
+      name: Priti Mahajan
+      gender: Female
+      email: priti.cse@raisoni.net
+      grade: Grade C
+      age: 23
+  - branchName: Mechanical
+    students:
+    - id: 1
+      name: Siddharth Patil
+      gender: Male
+      email: siddharth.mech@raisoni.net
+      grade: Grade B
+      age: 21
+    - id: 2
+      name: Kiran Choudhary
+      gender: Female
+      email: kiran.mech@raisoni.net
+      grade: Grade B
+      age: 21
+  - branchName: Electrical
+    students:
+    - id: 1
+      name: Pankaj Raut
+      gender: Male
+      email: pankaj.ee@raisoni.net
+      grade: Grade B
+      age: 21
+    - id: 2
+      name: Shilpa Joshi
+      gender: Female
+      email: shilpa.ee@raisoni.net
+      grade: Grade B
+      age: 21
+  - branchName: Civil
+    students:
+    - id: 1
+      name: Rohini Wankhede
+      gender: Female
+      email: rohini.civil@raisoni.net
+      grade: Grade B
+      age: 21
+    - id: 2
+      name: Amit Jaiswal
+      gender: Male
+      email: amit.civil@raisoni.net
+      grade: Grade B
+      age: 21
+  - branchName: Electronics
+    students:
+    - id: 1
+      name: Rajat Malu
+      gender: Male
+      email: rajat.ec@raisoni.net
+      grade: Grade B
+      age: 21
+    - id: 2
+      name: Neelima Desai
+      gender: Female
+      email: neelima.ec@raisoni.net
+      grade: Grade B
+      age: 21
+- collegeName: Shri Ramdeobaba College of Engineering and Management
+  branches:
+  - branchName: Computer Science
+    students:
+    - id: 1
+      name: Ankit Tiwari
+      gender: Male
+      email: ankit.cse@rknec.edu
+      grade: Grade B
+      age: 21
+    - id: 2
+      name: Sneha Patil
+      gender: Female
+      email: sneha.cse@rknec.edu
+      grade: Grade B
+      age: 21
+  - branchName: Mechanical
+    students:
+    - id: 1
+      name: Rohit Kale
+      gender: Male
+      email: rohit.mech@rknec.edu
+      grade: Grade B
+      age: 21
+    - id: 2
+      name: Komal Deshmukh
+      gender: Female
+      email: komal.mech@rknec.edu
+      grade: Grade B
+      age: 21
+  - branchName: Electrical
+    students:
+    - id: 1
+      name: Saurabh Mishra
+      gender: Male
+      email: saurabh.ee@rknec.edu
+      grade: Grade B
+      age: 21
+    - id: 2
+      name: Poonam Gupta
+      gender: Female
+      email: poonam.ee@rknec.edu
+      grade: Grade B
+      age: 21
+  - branchName: Civil
+    students:
+    - id: 1
+      name: Nikhil Bansod
+      gender: Male
+      email: nikhil.civil@rknec.edu
+      grade: Grade B
+      age: 21
+    - id: 2
+      name: Rashmi Kothari
+      gender: Female
+      email: rashmi.civil@rknec.edu
+      marks: 89
+      grade: Grade B
+      age: 21
+  - branchName: Electronics
+    students:
+    - id: 1
+      name: Abhishek Roy
+      gender: Male
+      email: abhishek.ec@rknec.edu
+      grade: Grade B
+      age: 21
+    - id: 2
+      name: Priya Nair
+      gender: Female
+      email: priya.ec@rknec.edu
+      grade: Grade B
+      age: 21
+- collegeName: Priyadarshini College of Engineering
+  branches:
+  - branchName: Computer Science
+    students:
+    - id: 1
+      name: Kunal Mehta
+      gender: Male
+      email: kunal.cse@pce.edu
+      grade: Grade B
+      age: 21
+    - id: 2
+      name: Riya Malviya
+      gender: Female
+      email: riya.cse@pce.edu
+      grade: Grade B
+      age: 21
+  - branchName: Mechanical
+    students:
+    - id: 1
+      name: Mayur Shukla
+      gender: Male
+      email: mayur.mech@pce.edu
+      grade: Grade B
+      age: 21
+    - id: 2
+      name: Sonali Rane
+      gender: Female
+      email: sonali.mech@pce.edu
+      grade: Grade B
+      age: 21
+  - branchName: Electrical
+    students:
+    - id: 1
+      name: Deepak Yadav
+      gender: Male
+      email: deepak.ee@pce.edu
+      grade: Grade B
+      age: 21
+    - id: 2
+      name: Bhavana Shah
+      gender: Female
+      email: bhavana.ee@pce.edu
+      grade: Grade C
+      age: 21
+  - branchName: Civil
+    students:
+    - id: 1
+      name: Arjun Solanki
+      gender: Male
+      email: arjun.civil@pce.edu
+      grade: Fail
+      age: 21
+    - id: 2
+      name: Pallavi More
+      gender: Female
+      email: pallavi.civil@pce.edu
+      grade: Grade C
+      age: 67
+  - branchName: Electronics
+    students:
+    - id: 1
+      name: Nilesh Patwardhan
+      gender: Male
+      email: nilesh.ec@pce.edu
+      grade: Fail
+      age: 21
+    - id: 2
+      name: Shweta Kulkarni
+      gender: Female
+      email: shweta.ec@pce.edu
+      grade: Fail
+      age: 21

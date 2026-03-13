@@ -1,0 +1,406 @@
+2026-01-23 00:28:58,039 - web_scraper - INFO - Staring function: fetch
+2026-01-23 00:29:03,480 - web_scraper - INFO - Staring function: fetch
+2026-01-23 00:29:04,820 - web_scraper - INFO - Staring function: fetch
+2026-01-23 00:29:06,004 - web_scraper - INFO - Staring function: fetch
+2026-01-23 00:29:06,231 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 00:29:06,231 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 00:29:07,232 - web_scraper - INFO - Staring function: fetch
+2026-01-23 00:29:07,318 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 00:29:07,318 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 00:29:08,319 - web_scraper - INFO - Staring function: fetch
+2026-01-23 00:29:08,610 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 00:29:08,610 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 00:29:08,610 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 00:29:08,610 - web_scraper - INFO - Staring function: fetch
+2026-01-23 00:29:09,458 - web_scraper - INFO - Staring function: fetch
+2026-01-23 00:29:10,276 - web_scraper - INFO - Staring function: fetch
+2026-01-23 00:29:10,686 - web_scraper - INFO - Staring function: fetch
+2026-01-23 00:29:11,319 - web_scraper - INFO - Staring function: fetch
+2026-01-23 00:29:11,996 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 00:29:11,996 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 00:29:12,996 - web_scraper - INFO - Staring function: fetch
+2026-01-23 00:29:13,059 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 00:29:13,059 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 00:29:14,060 - web_scraper - INFO - Staring function: fetch
+2026-01-23 00:29:14,127 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 00:29:14,127 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 00:29:14,127 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 00:29:14,127 - web_scraper - INFO - Staring function: fetch
+2026-01-23 00:29:14,243 - web_scraper - INFO - Staring function: run_all
+2026-01-23 00:29:14,243 - web_scraper - INFO - Running all 10 urls
+2026-01-23 00:29:14,243 - web_scraper - INFO - Staring function: save_results
+2026-01-23 00:29:14,244 - web_scraper - INFO - Staring function: load_results
+2026-01-23 00:29:14,244 - web_scraper - INFO - Loaded results from /home/aniket-deshkar/PycharmProjects/Path2AI/PythonTrack/PythonProject/web_scraper/web_scraper/results.json
+2026-01-23 07:27:09,018 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:09,018 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:10,029 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:10,029 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:11,030 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:11,031 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:11,031 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 07:27:11,031 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:11,031 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:12,032 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:12,032 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:13,034 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:13,034 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:13,034 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 07:27:13,034 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:13,034 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:14,035 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:14,035 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:15,044 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:15,044 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:15,044 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 07:27:15,044 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:15,044 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:16,046 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:16,046 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:17,047 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:17,047 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:17,047 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 07:27:17,047 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:17,047 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:18,049 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:18,049 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:19,050 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:19,050 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:19,058 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 07:27:19,058 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:19,058 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:20,060 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:20,060 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:21,061 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:21,061 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:21,061 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 07:27:21,061 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:21,061 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:22,062 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:22,062 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:23,064 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:23,064 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:23,064 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 07:27:23,064 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:23,064 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:24,065 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:24,066 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:25,075 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:25,075 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:25,075 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 07:27:25,075 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:25,075 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:26,077 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:26,077 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:27,078 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:27,078 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:27,078 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 07:27:27,078 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:27,078 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:28,080 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:28,080 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:29,081 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:27:29,081 - web_scraper - ERROR - Error in fetch : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:27:29,081 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 07:27:29,095 - web_scraper - INFO - Starting function: run_all
+2026-01-23 07:27:29,095 - web_scraper - ERROR - Error in run_all : asyncio.run() cannot be called from a running event loop
+2026-01-23 07:31:01,682 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:31:01,682 - web_scraper - INFO - Ending program fetch
+2026-01-23 07:31:01,769 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:31:01,769 - web_scraper - INFO - Ending program fetch
+2026-01-23 07:31:02,110 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:31:02,110 - web_scraper - INFO - Ending program fetch
+2026-01-23 07:31:02,249 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:31:02,249 - web_scraper - INFO - Ending program fetch
+2026-01-23 07:31:02,520 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:31:03,521 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:31:03,522 - web_scraper - INFO - Ending program fetch
+2026-01-23 07:31:03,603 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:31:04,604 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:31:04,604 - web_scraper - INFO - Ending program fetch
+2026-01-23 07:31:04,708 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:31:04,708 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 07:31:04,709 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:31:04,709 - web_scraper - INFO - Ending program fetch
+2026-01-23 07:31:04,975 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:31:04,975 - web_scraper - INFO - Ending program fetch
+2026-01-23 07:31:05,218 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:31:05,218 - web_scraper - INFO - Ending program fetch
+2026-01-23 07:31:05,482 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:31:05,482 - web_scraper - INFO - Ending program fetch
+2026-01-23 07:31:05,835 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:31:05,835 - web_scraper - INFO - Ending program fetch
+2026-01-23 07:31:05,969 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:31:06,970 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:31:06,970 - web_scraper - INFO - Ending program fetch
+2026-01-23 07:31:07,051 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:31:08,053 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:31:08,053 - web_scraper - INFO - Ending program fetch
+2026-01-23 07:31:08,120 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:31:08,120 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 07:31:08,120 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:31:08,120 - web_scraper - INFO - Ending program fetch
+2026-01-23 07:31:08,209 - web_scraper - INFO - Starting function: run_all
+2026-01-23 07:31:08,209 - web_scraper - INFO - Ending program run_all
+2026-01-23 07:31:08,209 - web_scraper - INFO - Running all 10 urls
+2026-01-23 07:31:08,209 - web_scraper - INFO - Starting function: save_results
+2026-01-23 07:31:08,209 - web_scraper - INFO - Ending program save_results
+2026-01-23 07:31:08,210 - web_scraper - INFO - Starting function: load_results
+2026-01-23 07:31:08,210 - web_scraper - ERROR - Error in load_results : Extra data: line 42 column 2 (char 1311)
+2026-01-23 07:56:17,625 - web_scraper - INFO - Starting function: run_all
+2026-01-23 07:56:17,626 - web_scraper - INFO - Running all 10 urls
+2026-01-23 07:56:17,626 - web_scraper - INFO - Starting function: save_results
+2026-01-23 07:56:17,626 - web_scraper - INFO - Ending program save_results
+2026-01-23 07:56:17,626 - web_scraper - INFO - Starting function: load_results
+2026-01-23 07:56:17,626 - web_scraper - ERROR - Error in load_results : Extra data: line 42 column 2 (char 1311)
+2026-01-23 07:57:09,045 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:57:09,235 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:57:09,628 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:57:09,802 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:57:10,201 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:57:10,201 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:57:11,202 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:57:11,284 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:57:11,285 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:57:12,286 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:57:12,369 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:57:12,369 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:57:12,369 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 07:57:12,369 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:57:12,467 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:57:12,731 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:57:12,949 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:57:13,056 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:57:13,144 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:57:13,144 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:57:14,146 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:57:14,221 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:57:14,221 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:57:15,223 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:57:15,306 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:57:15,306 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:57:15,306 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 07:57:15,306 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:57:15,403 - web_scraper - INFO - Starting function: run_all
+2026-01-23 07:57:15,403 - web_scraper - INFO - Running all 10 urls
+2026-01-23 07:57:15,403 - web_scraper - INFO - Starting function: save_results
+2026-01-23 07:57:15,403 - web_scraper - INFO - Ending program save_results
+2026-01-23 07:57:15,403 - web_scraper - INFO - Starting function: load_results
+2026-01-23 07:57:15,403 - web_scraper - ERROR - Error in load_results : Extra data: line 42 column 2 (char 1311)
+2026-01-23 07:59:42,834 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:59:43,185 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:59:43,708 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:59:43,873 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:59:43,970 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:59:43,970 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:59:44,971 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:59:45,054 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:59:45,054 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:59:46,056 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:59:46,143 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:59:46,143 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:59:46,143 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 07:59:46,143 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:59:46,231 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:59:46,433 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:59:46,594 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:59:46,688 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:59:46,770 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:59:46,770 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:59:47,771 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:59:47,844 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:59:47,844 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:59:48,845 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:59:48,921 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:59:48,921 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 07:59:48,921 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 07:59:48,921 - web_scraper - INFO - Starting function: fetch
+2026-01-23 07:59:49,056 - web_scraper - INFO - Starting function: run_all
+2026-01-23 07:59:49,056 - web_scraper - INFO - Running all 10 urls
+2026-01-23 07:59:49,056 - web_scraper - INFO - Starting function: save_results
+2026-01-23 07:59:49,057 - web_scraper - INFO - Ending program save_results
+2026-01-23 07:59:49,057 - web_scraper - INFO - Starting function: load_results
+2026-01-23 07:59:49,057 - web_scraper - INFO - Loaded results from /home/aniket-deshkar/PycharmProjects/Path2AI/PythonTrack/PythonProject/web_scraper/web_scraper/results.json
+2026-01-23 07:59:49,057 - web_scraper - INFO - Ending program load_results
+2026-01-23 08:01:32,491 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:01:32,576 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:01:32,908 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:01:33,381 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:01:33,480 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:01:33,480 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:01:34,481 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:01:34,568 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:01:34,568 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:01:35,569 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:01:35,654 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:01:35,654 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:01:35,654 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 08:01:35,654 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:01:35,737 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:01:35,932 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:01:36,101 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:01:36,188 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:01:36,249 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:01:36,249 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:01:37,250 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:01:37,324 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:01:37,324 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:01:38,326 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:01:38,390 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:01:38,390 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:01:38,390 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 08:01:38,391 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:01:38,505 - web_scraper - INFO - Starting function: run_all
+2026-01-23 08:01:38,505 - web_scraper - INFO - Running all 10 urls
+2026-01-23 08:01:38,505 - web_scraper - INFO - Starting function: save_results
+2026-01-23 08:01:38,505 - web_scraper - INFO - Ending program save_results
+2026-01-23 08:01:38,505 - web_scraper - INFO - Starting function: load_results
+2026-01-23 08:01:38,506 - web_scraper - INFO - Loaded results from /home/aniket-deshkar/PycharmProjects/Path2AI/PythonTrack/PythonProject/web_scraper/web_scraper/results.json
+2026-01-23 08:01:38,506 - web_scraper - INFO - Ending program load_results
+2026-01-23 08:19:17,287 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:19:17,383 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:19:17,839 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:19:18,004 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:19:18,100 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:19:18,100 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:19:19,102 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:19:19,181 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:19:19,181 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:19:20,182 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:19:20,263 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:19:20,263 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:19:20,263 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 08:19:20,263 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:19:20,380 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:19:20,597 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:19:20,752 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:19:20,865 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:19:20,944 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:19:20,944 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:19:21,946 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:19:22,023 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:19:22,023 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:19:23,024 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:19:23,093 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:19:23,093 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 08:19:23,093 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 08:19:23,093 - web_scraper - INFO - Starting function: fetch
+2026-01-23 08:19:23,201 - web_scraper - INFO - Starting function: run_all
+2026-01-23 08:19:23,201 - web_scraper - INFO - Running all 10 urls
+2026-01-23 08:19:23,201 - web_scraper - INFO - Starting function: save_results
+2026-01-23 08:19:23,202 - web_scraper - INFO - Ending program save_results
+2026-01-23 08:19:23,202 - web_scraper - INFO - Starting function: load_results
+2026-01-23 08:19:23,202 - web_scraper - INFO - Loaded results from /home/aniket-deshkar/PycharmProjects/Path2AI/PythonTrack/PythonProject/web_scraper/web_scraper/results.json
+2026-01-23 08:19:23,202 - web_scraper - INFO - Ending program load_results
+2026-01-23 14:29:12,212 - web_scraper - INFO - Starting function: fetch
+2026-01-23 14:29:12,411 - web_scraper - INFO - Starting function: fetch
+2026-01-23 14:29:13,151 - web_scraper - INFO - Starting function: fetch
+2026-01-23 14:29:13,311 - web_scraper - INFO - Starting function: fetch
+2026-01-23 14:29:13,497 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 14:29:13,497 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 14:29:14,498 - web_scraper - INFO - Starting function: fetch
+2026-01-23 14:29:14,745 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 14:29:14,746 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 14:29:15,747 - web_scraper - INFO - Starting function: fetch
+2026-01-23 14:29:15,865 - web_scraper - ERROR - Failed to fetch: https://stackoverflow.com/questions with exception: Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 14:29:15,865 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://stackoverflow.com/questions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 14:29:15,865 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 14:29:15,865 - web_scraper - INFO - Starting function: fetch
+2026-01-23 14:29:16,055 - web_scraper - INFO - Starting function: fetch
+2026-01-23 14:29:16,450 - web_scraper - INFO - Starting function: fetch
+2026-01-23 14:29:16,720 - web_scraper - INFO - Starting function: fetch
+2026-01-23 14:29:17,781 - web_scraper - INFO - Starting function: fetch
+2026-01-23 14:29:17,957 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 14:29:17,957 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 14:29:18,959 - web_scraper - INFO - Starting function: fetch
+2026-01-23 14:29:19,068 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 14:29:19,069 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 14:29:20,070 - web_scraper - INFO - Starting function: fetch
+2026-01-23 14:29:20,222 - web_scraper - ERROR - Failed to fetch: https://medium.com/ with exception: Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 14:29:20,222 - web_scraper - ERROR - Error in fetch : Client error '403 Forbidden' for url 'https://medium.com/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-01-23 14:29:20,222 - web_scraper - ERROR - All attempts failed for fetch
+2026-01-23 14:29:20,222 - web_scraper - INFO - Starting function: fetch
+2026-01-23 14:29:21,322 - web_scraper - INFO - Starting function: run_all
+2026-01-23 14:29:21,323 - web_scraper - INFO - Running all 10 urls
+2026-01-23 14:29:21,323 - web_scraper - INFO - Starting function: save_results
+2026-01-23 14:29:21,331 - web_scraper - INFO - Ending program save_results
+2026-01-23 14:29:21,331 - web_scraper - INFO - Starting function: load_results
+2026-01-23 14:29:21,331 - web_scraper - INFO - Loaded results from /home/aniket-deshkar/PycharmProjects/Path2AI/PythonTrack/PythonProject/web_scraper/web_scraper/results.json
+2026-01-23 14:29:21,332 - web_scraper - INFO - Ending program load_results

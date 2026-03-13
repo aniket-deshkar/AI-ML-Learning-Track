@@ -1,0 +1,8 @@
+INFO: Application started.
+DEBUG: Initializing components.
+INFO: User logged in.
+WARN: Low disk space.
+ERROR: Failed to load configuration log_file.
+INFO: Request processed successfully.
+DEBUG: Connection established.
+INFO: Application stopped.

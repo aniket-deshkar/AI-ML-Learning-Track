@@ -1,0 +1,11 @@
+students:
+  - name: Amit
+    marks:
+      - 78
+      - 85
+      - 90
+  - name: Neha
+    marks:
+      - 88
+      - 92
+      - 95

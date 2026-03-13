@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "doc_pipeline": "./doc_pipeline/graph.py:agent"
+  },
+  "env": ".env"
+}

@@ -1,0 +1,9 @@
+This is a dummy notes file.
+You can add your notes here.
+Created for testing purposes.
+1. Review project requirements.
+2. Prepare meeting agenda.
+3. Follow up with the design team.
+4. Update documentation.
+5. Schedule code review.
+6. Plan next sprint tasks.

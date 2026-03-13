@@ -1,0 +1,42 @@
+{
+    "https://www.example.com": {
+        "url": "https://www.example.com",
+        "title": "Example Domain",
+        "length": "513"
+    },
+    "https://www.google.com": {
+        "url": "https://www.google.com",
+        "title": "Google",
+        "length": "180986"
+    },
+    "https://www.geeksforgeeks.org/": {
+        "url": "https://www.geeksforgeeks.org/",
+        "title": "GeeksforGeeks | Your All-in-One Learning Portal",
+        "length": "192026"
+    },
+    "https://docs.python.org/3/": {
+        "url": "https://docs.python.org/3/",
+        "title": "3.14.2 Documentation",
+        "length": "17797"
+    },
+    "https://www.browserstack.com/": {
+        "url": "https://www.browserstack.com/",
+        "title": "Most Reliable App & Cross Browser Testing Platform | BrowserStack",
+        "length": "687364"
+    },
+    "https://www.w3schools.com/": {
+        "url": "https://www.w3schools.com/",
+        "title": "W3Schools Online Web Tutorials",
+        "length": "410220"
+    },
+    "https://bytebytego.com/": {
+        "url": "https://bytebytego.com/",
+        "title": "ByteByteGo | Technical Interview Prep",
+        "length": "4455"
+    },
+    "https://www.python.org/": {
+        "url": "https://www.python.org/",
+        "title": "Welcome to Python.org",
+        "length": "47950"
+    }
+}

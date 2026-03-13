@@ -1,0 +1,215 @@
+2026-02-03 17:50:43,289:INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+2026-02-03 17:50:43,298:DEBUG:httpcore.connection:connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-02-03 17:50:43,583:DEBUG:httpcore.connection:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x719298ed8ad0>
+2026-02-03 17:50:43,583:DEBUG:httpcore.connection:start_tls.started ssl_context=<ssl.SSLContext object at 0x719298f66210> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-02-03 17:50:43,687:DEBUG:httpcore.connection:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x719298e2dd10>
+2026-02-03 17:50:43,688:DEBUG:httpcore.http11:send_request_headers.started request=<Request [b'POST']>
+2026-02-03 17:50:43,688:DEBUG:httpcore.http11:send_request_headers.complete
+2026-02-03 17:50:43,688:DEBUG:httpcore.http11:send_request_body.started request=<Request [b'POST']>
+2026-02-03 17:50:43,688:DEBUG:httpcore.http11:send_request_body.complete
+2026-02-03 17:50:43,688:DEBUG:httpcore.http11:receive_response_headers.started request=<Request [b'POST']>
+2026-02-03 17:50:48,150:DEBUG:httpcore.http11:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 03 Feb 2026 12:20:48 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=4274'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-02-03 17:50:48,150:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-02-03 17:50:48,150:DEBUG:httpcore.http11:receive_response_body.started request=<Request [b'POST']>
+2026-02-03 17:50:48,151:DEBUG:httpcore.http11:receive_response_body.complete
+2026-02-03 17:50:48,151:DEBUG:httpcore.http11:response_closed.started
+2026-02-03 17:50:48,151:DEBUG:httpcore.http11:response_closed.complete
+2026-02-03 17:50:48,198:DEBUG:httpcore.connection:close.started
+2026-02-03 17:50:48,198:DEBUG:httpcore.connection:close.complete
+2026-02-03 17:57:12,318:INFO:root:user_input:  What is vector in 10 words
+2026-02-03 17:57:12,319:INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+2026-02-03 17:57:12,319:DEBUG:httpcore.connection:connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-02-03 17:57:12,662:DEBUG:httpcore.connection:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7721058a4ad0>
+2026-02-03 17:57:12,663:DEBUG:httpcore.connection:start_tls.started ssl_context=<ssl.SSLContext object at 0x772105966210> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-02-03 17:57:12,840:DEBUG:httpcore.connection:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x77210582dd10>
+2026-02-03 17:57:12,841:DEBUG:httpcore.http11:send_request_headers.started request=<Request [b'POST']>
+2026-02-03 17:57:12,841:DEBUG:httpcore.http11:send_request_headers.complete
+2026-02-03 17:57:12,841:DEBUG:httpcore.http11:send_request_body.started request=<Request [b'POST']>
+2026-02-03 17:57:12,841:DEBUG:httpcore.http11:send_request_body.complete
+2026-02-03 17:57:12,841:DEBUG:httpcore.http11:receive_response_headers.started request=<Request [b'POST']>
+2026-02-03 17:57:22,422:DEBUG:httpcore.http11:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 03 Feb 2026 12:27:22 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=9391'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-02-03 17:57:22,423:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-02-03 17:57:22,423:DEBUG:httpcore.http11:receive_response_body.started request=<Request [b'POST']>
+2026-02-03 17:57:22,423:DEBUG:httpcore.http11:receive_response_body.complete
+2026-02-03 17:57:22,423:DEBUG:httpcore.http11:response_closed.started
+2026-02-03 17:57:22,423:DEBUG:httpcore.http11:response_closed.complete
+2026-02-03 17:57:22,424:INFO:root:LLM Response: sdk_http_response=HttpResponse(
+  headers=<dict len=11>
+) candidates=[Candidate(
+  content=Content(
+    parts=[
+      Part(
+        text='A quantity that has both a magnitude and a direction.',
+        thought_signature=b'\x12\xec\x12\n\xe9\x12\x01r\xc8\xda|qyrk\x8d\x94K]\xdf\x02T\xdb\x9e\xe8\x90C\xf6\xaf\xb6A\xc5)<\xd3u\xc1#\x1b\xae\xbd[\x12#U\x0b\xda4\xa4\x1c\x9aF@?\xbay\xd8,@\xd9\x0c\x10\xb8D\x81\x90;\xfev\xa7u5\xee\xb5g#o\xa7R\\\xb8\x17\xf4F\x91D<Y\xe3\x8b\xcd\r"\x84\x1f\x1b\xf5...'
+      ),
+    ],
+    role='model'
+  ),
+  finish_reason=<FinishReason.STOP: 'STOP'>,
+  index=0
+)] create_time=None model_version='gemini-3-flash-preview' prompt_feedback=None response_id='qumBaeiGDuW8qfkPuc7vsQ4' usage_metadata=GenerateContentResponseUsageMetadata(
+  candidates_token_count=11,
+  prompt_token_count=9,
+  prompt_tokens_details=[
+    ModalityTokenCount(
+      modality=<MediaModality.TEXT: 'TEXT'>,
+      token_count=9
+    ),
+  ],
+  thoughts_token_count=701,
+  total_token_count=721
+) automatic_function_calling_history=[] parsed=None
+2026-02-03 17:57:22,468:DEBUG:httpcore.connection:close.started
+2026-02-03 17:57:22,469:DEBUG:httpcore.connection:close.complete
+2026-02-04 08:48:43,537:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-004:batchEmbedContents "HTTP/1.1 404 Not Found"
+2026-02-04 08:48:43,538:ERROR:centralized_logger:Execption 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-embedding-004 is not found for API version v1beta, or is not supported for embedContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}} casused
+2026-02-04 08:48:51,726:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-004:batchEmbedContents "HTTP/1.1 404 Not Found"
+2026-02-04 08:48:51,727:ERROR:centralized_logger:Execption 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-embedding-004 is not found for API version v1beta, or is not supported for embedContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}} casused
+2026-02-04 08:49:13,938:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-04 08:49:49,030:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-04 10:06:02,421:INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+2026-02-04 10:06:11,225:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-02-04 10:06:11,226:INFO:centralized_logger:A **cat** (*Felis catus*) is a small carnivorous mammal that is the only domesticated species in the family **Felidae**. They are often referred to as "domestic cats" or "house cats" to distinguish them from wild cats like lions, tigers, and leopards.
+
+Here is a breakdown of what makes a cat a cat:
+
+### 1. Physical Characteristics
+*   **Agility:** Cats have flexible bodies, quick reflexes, and retractable claws, making them excellent climbers and hunters.
+*   **Senses:** They have highly developed senses. Their **night vision** is far superior to humans, and they can hear high-pitched sounds that are ultrasonic to us.
+*   **Whiskers:** Their whiskers (vibrissae) are highly sensitive touch organs that help them navigate in the dark and judge the width of openings.
+*   **Fur:** They come in a vast variety of breeds, colors, and patterns, ranging from the hairless Sphynx to the long-haired Persian.
+
+### 2. Behavior
+*   **Carnivores:** Cats are "obligate carnivores," meaning their bodies require nutrients found only in animal flesh to survive.
+*   **Communication:** Cats communicate through vocalizations like **meowing** (which they mostly do to talk to humans), **purring** (usually a sign of contentment), **hissing**, and **growling**. They also use body language, such as tail positioning.
+*   **Sleep:** They are famous for sleeping an average of 12 to 16 hours a day to conserve energy for hunting (even if that "hunting" is just chasing a laser pointer).
+*   **Grooming:** Cats are very clean animals and spend a large portion of their waking hours licking their fur to clean themselves.
+
+### 3. Relationship with Humans
+*   **Domestication:** It is believed that cats were domesticated about 10,000 years ago in the Near East. They likely started hanging around human settlements to hunt the rodents that were attracted to grain stores.
+*   **Popularity:** Today, cats are one of the most popular pets in the world. There are currently over 60 recognized breeds.
+*   **Culture:** Throughout history, cats have been both worshipped (as in Ancient Egypt) and misunderstood. Today, they are cultural icons, especially on the internet.
+
+### 4. Scientific Classification
+*   **Kingdom:** Animalia
+*   **Class:** Mammalia
+*   **Order:** Carnivora
+*   **Family:** Felidae
+*   **Genus:** *Felis*
+*   **Species:** *F. catus*
+
+In short, a cat is a highly specialized, small predator that has successfully integrated itself into human society as a beloved companion.
+2026-02-04 10:06:11,226:INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+2026-02-04 10:06:18,805:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-02-04 10:06:18,805:INFO:centralized_logger:A **cat** (*Felis catus*) is a small carnivorous mammal that is the only domesticated species in the family Felidae. Often referred to as the **domestic cat** to distinguish it from wild members of the family (like lions and tigers), it has been a companion to humans for nearly 10,000 years.
+
+Here is a breakdown of what defines a cat:
+
+### 1. Biological Classification
+*   **Kingdom:** Animalia
+*   **Family:** Felidae (Felids)
+*   **Genus:** *Felis*
+*   **Species:** *F. catus*
+They are closely related to the African wildcat (*Felis lybica*), which is their direct ancestor.
+
+### 2. Physical Characteristics
+*   **Anatomy:** Cats have flexible bodies, quick reflexes, sharp retractable claws, and teeth adapted for killing small prey. 
+*   **Senses:** 
+    *   **Vision:** They have excellent night vision, allowing them to see in one-sixth the light level required for human vision.
+    *   **Hearing:** They can hear ultrasonic sounds, which helps them locate rodents.
+    *   **Whiskers:** Their whiskers (vibrissae) are highly sensitive tactile organs that help them navigate in the dark and judge the width of openings.
+*   **Righting Reflex:** Cats have a specialized skeletal structure that allows them to twist their bodies in mid-air and land on their feet most of the time.
+
+### 3. Behavior
+*   **Sleep:** Cats are famous for sleeping. On average, they sleep 12 to 16 hours a day to conserve energy for hunting.
+*   **Communication:** They communicate through vocalizations (meowing, purring, hissing, growling), scent marking (rubbing against things), and body language (tail position, ear movement). Interestingly, adult cats rarely meow at other cats; they primarily use meowing to communicate with humans.
+*   **Grooming:** Cats are meticulously clean and spend up to 25% of their waking hours grooming themselves with their sandpaper-like tongues.
+
+### 4. Relationship with Humans
+*   **History:** They were first domesticated in the Near East (around 7500 BC). They were famously revered in Ancient Egypt, where they were protected and sometimes mummified.
+*   **Pest Control:** Historically, cats were kept to protect grain stores from rodents.
+*   **Pets:** Today, they are one of the most popular pets in the world. There are roughly 60 recognized breeds, ranging from the hairless Sphynx to the fluffy Maine Coon.
+
+### 5. Ecological Impact
+While they are beloved pets, domestic cats are also highly efficient predators. In many parts of the world, outdoor and feral cats are considered invasive species because they have a significant impact on local bird and small mammal populations.
+
+**In summary:** A cat is a highly specialized, "low-maintenance" predator that has successfully adapted to live alongside humans as both a working animal and a beloved companion.
+2026-02-04 10:06:18,806:INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+2026-02-04 10:06:27,968:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-02-04 10:06:27,974:INFO:centralized_logger:A **cat** (*Felis catus*) is a small, carnivorous mammal that is the only domesticated species in the family **Felidae**. They are often referred to as "house cats" to distinguish them from their wild relatives like lions, tigers, and leopards.
+
+Here is a breakdown of what makes a cat a cat:
+
+### 1. Biology and Physical Traits
+*   **Carnivores:** Cats are "obligate carnivores," meaning their bodies require nutrients found only in animal flesh to survive.
+*   **Agility:** They have highly flexible skeletons, retractable claws, and powerful hind legs, making them excellent jumpers and climbers.
+*   **Senses:** Cats have exceptional night vision, a keen sense of smell, and highly sensitive hearing (they can hear ultrasonic sounds that humans cannot).
+*   **Whiskers:** Their whiskers (vibrissae) act as sensory tools to help them navigate in the dark and detect changes in air currents.
+
+### 2. Behavior
+*   **Hunting:** Even domestic cats retain a strong hunting instinct. They often use a "stalk and pounce" method.
+*   **Communication:** Cats communicate through vocalizations (meowing, purring, hissing), body language (tail position, ear movement), and scent marking. Interestingly, adult cats rarely meow at other cats; they mostly use it to communicate with humans.
+*   **Sleep:** Cats are known for sleeping a lot, averaging 12 to 16 hours a day, to conserve energy for short bursts of hunting activity.
+*   **Grooming:** They are very clean animals and spend a large portion of their waking hours licking their fur to clean themselves and regulate body temperature.
+
+### 3. History and Domestication
+*   **Origins:** All domestic cats descend from the **Near Eastern wildcat** (*Felis lybica*).
+*   **Domestication:** It is believed that cats began living near humans about 10,000 years ago in the Near East. They were attracted to early human settlements because grain stores attracted mice and rats, providing an easy food source.
+*   **Ancient Egypt:** Cats were highly revered in Ancient Egypt, where they were associated with gods and often mummified.
+
+### 4. Cats as Pets
+Today, cats are one of the most popular pets in the world. There are roughly **40 to 70 recognized breeds**, ranging from the large, fluffy Maine Coon to the hairless Sphynx. However, the majority of pet cats are "random-bred" (often called Domestic Shorthairs or Longhairs).
+
+### Fun Fact
+A cat's **purr** isn't just a sign of happiness; it vibrates at a frequency that can actually help improve bone density and promote the healing of tendons and muscles!
+2026-02-04 10:08:37,581:INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+2026-02-04 10:08:46,356:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-02-04 10:08:46,357:INFO:centralized_logger:A **cat** (*Felis catus*) is a small, carnivorous mammal that is the only domesticated species in the family Felidae. Often referred to as the **domestic cat** to distinguish it from wild cats (like lions, tigers, and leopards), it is one of the most popular pets in the world.
+
+Here is a breakdown of what makes a cat unique:
+
+### 1. Biological Characteristics
+*   **Obligate Carnivores:** Cats are "true" carnivores, meaning their bodies require nutrients found only in animal flesh to survive.
+*   **Physical Traits:** They are known for their flexible bodies, quick reflexes, sharp retractable claws, and teeth adapted for killing small prey. 
+*   **Sensory Superpowers:** 
+    *   **Vision:** They have excellent night vision, allowing them to see in one-sixth the light level required for human vision.
+    *   **Hearing:** They can hear ultrasonic sounds, which helps them locate rodents.
+    *   **Whiskers:** Their whiskers (vibrissae) are highly sensitive touch organs that help them navigate in the dark and sense changes in air currents.
+
+### 2. Behavior
+*   **Crepuscular:** While often thought of as nocturnal, cats are naturally crepuscular, meaning they are most active at dawn and dusk.
+*   **Communication:** Cats communicate through vocalizations (meowing, purring, hissing, growling), scent marking (rubbing their cheeks on things), and body language (ear and tail positions).
+*   **Grooming:** Cats are exceptionally clean animals and spend a large portion of their waking hours licking their fur to remove scent and dirt.
+
+### 3. History and Domestication
+*   **Ancestry:** Domestic cats descended from the **African wildcat** (*Felis lybica*).
+*   **Relationship with Humans:** Domestication began about 10,000 years ago in the Near East. Early farmers encouraged cats to stay around to hunt mice and rats that ate stored grain.
+*   **Ancient Egypt:** Cats were famously revered in Ancient Egypt, where they were associated with gods (like Bastet) and sometimes even mummified.
+
+### 4. Varieties
+There are dozens of recognized **cat breeds**, ranging from the hairless Sphynx to the fluffy Persian or the massive Maine Coon. However, the vast majority of pet cats are "random-bred," often categorized simply as Domestic Shorthairs or Domestic Longhairs.
+
+### 5. Why People Love Them
+Cats are popular because they are relatively low-maintenance compared to dogs. They are independent, quiet, and can live comfortably in small apartments. Research also suggests that the vibration of a cat’s **purr** can lower blood pressure and reduce stress in humans.
+
+**In short:** A cat is a highly specialized, small-scale predator that transitioned from a pest-control worker to a beloved household companion over thousands of years.
+2026-02-04 10:08:46,357:INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+2026-02-04 10:08:58,451:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-02-04 10:13:16,454:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-04 10:16:38,790:INFO:centralized_logger:user_input:  What is AI
+2026-02-04 10:16:38,799:INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+2026-02-04 10:16:44,316:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-02-04 10:16:44,316:ERROR:centralized_logger:503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-02-04 10:17:29,383:INFO:centralized_logger:user_input:  What is AI in 20 words
+2026-02-04 10:17:29,383:INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+2026-02-04 10:17:35,080:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-02-04 10:17:35,081:INFO:centralized_logger:LLM Response: AI is technology that mimics human intelligence to perform complex tasks, solve problems, and improve itself through learning from data.
+2026-02-04 10:21:48,701:INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+2026-02-04 10:21:49,566:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-02-04 10:26:31,789:INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+2026-02-04 10:26:32,615:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-02-04 10:27:11,036:INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+2026-02-04 10:27:11,549:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-02-04 10:38:45,416:INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+2026-02-04 10:38:46,067:INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-02-11 09:29:06,897:INFO:API Logger:Test log message from reproduction script

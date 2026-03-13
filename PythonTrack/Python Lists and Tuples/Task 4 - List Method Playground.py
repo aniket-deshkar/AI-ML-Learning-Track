@@ -1,0 +1,15 @@
+list4 = []
+for i in range(1,6):
+    list4.append(i)
+print(list4)
+print("Inserting value at index 2:", end=' ')
+list4.insert(2,6)
+print("List after inserting value at 2nd index",list4)
+list4.remove(2)
+print("List after removing 2",list4)
+list4.pop()
+print("List after popping last value",list4)
+list4.sort()
+print("List after sorting",list4)
+list4.reverse()
+print("List after reversing",list4)
